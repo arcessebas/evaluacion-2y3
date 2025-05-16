@@ -1,0 +1,16 @@
+#navbarindex {
+  background-color: #2306cc;
+  z-index: 10;
+}
+
+#navbarindex .nav-link {
+  color: rgb(233, 230, 236) ;
+  font-size: 18px;
+  padding: 15px 20px;
+}
+
+#navbarindex .nav-link:hover {
+  background-color: #090788;
+  color: #5e0505;
+  text-decoration: none;
+}
